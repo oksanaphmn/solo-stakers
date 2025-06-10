@@ -18,7 +18,7 @@ The first version of the list you will find in this repo, considers the **first 
 
 *Below we outline the variables included in the first release and how to interpret them.*
 
-The [dataset](solo_stakers_v1.csv) contains the following columns:
+The [dataset](https://github.com/eth-educators/solo-stakers/blob/main/solos_list/solo_stakers_v1.csv) contains the following columns:
 - `deposit_address`: the address used to initiate the transaction to the deposit contract.
 - `deposit_address_validator_count`: total number of validators under the deposit address in the examined dataset.
 - `withdrawal_addresses`: list of withdrawal addresses associated with the validators under the deposit deposit address.
